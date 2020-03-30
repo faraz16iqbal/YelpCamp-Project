@@ -1,0 +1,36 @@
+.thumbnail img{
+	width:100%;
+}
+
+.thumbnail{
+	padding : 0;
+}
+
+#delete-form{
+	display : inline;
+}
+
+.alert-danger{
+	text-align:center;
+	font-size:1.25em;
+}
+
+.alert-success{
+	text-align:center;
+	font-size:1.25em;
+	
+}
+
+.navbar-brand.yelpcamp{
+	padding-left:16px;
+	font-size:2rem;
+}
+
+.material-icons md-18{
+	font-size:2rem;
+}
+
+#zindexx{
+  z-index: 1;
+  position: relative;
+}
